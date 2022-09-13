@@ -1,7 +1,7 @@
 # Summary
 
 [Rust开发一个玩具语言](index.md)
-[前言](preface.md)
+[前言](./pre/preface.md)
 
 - [最小编译器](./ch1/readme.md)
   - [最小编译器](./ch1/ch1-01-mini-compiler.md)
